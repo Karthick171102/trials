@@ -1,0 +1,5 @@
+{
+  "name": "Cyber-Shield Security Dashboard",
+  "description": "A comprehensive UI/UX system for a modern security operations center (SOC) dashboard. It provides real-time threat monitoring, incident management, and automated playbook execution with a sleek, security-themed aesthetic.",
+  "requestFramePermissions": []
+}
